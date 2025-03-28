@@ -31,8 +31,8 @@ This project implements an intelligent traffic management system for ladle cars 
 ### Prerequisites
 
 *   Python 3.x
-*   TensorFlow / PyTorch (depending on your neural network framework)
-*   [List any other dependencies, e.g., OpenCV, specific libraries]
+*   TensorFlow / PyTorch 
+
 
 ### Installation
 
@@ -43,10 +43,10 @@ This project implements an intelligent traffic management system for ladle cars 
     ```
 2.  Install dependencies:
     ```
-    pip install -r requirements.txt # If you have a requirements.txt file
+    pip install -r requirements.txt
 
     ```
-3.  Download the pre-trained weights for the Ladle car detection model from [link to the model]
+3.  Download the pre-trained weights for the Ladle car detection model from repo.
 
 4.  Configure the system by updating the necessary configuration parameters such as the IP addresses of the industrial camera and the load-unload points in the "config.ini" file
 
@@ -57,9 +57,6 @@ This project implements an intelligent traffic management system for ladle cars 
     python main.py
     ```
 
-## Architecture
-
-[Optional: Include a diagram or description of the system architecture. This could include components like the neural network, tracking system, and signal control logic.]
 
 ## Contributing
 
@@ -71,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-*   [Optional: Credit any individuals, organizations, or resources that contributed to the project.]
+*   Credit any individuals, organizations, or resources that contributed to the project.
 
 ## Contact
 
