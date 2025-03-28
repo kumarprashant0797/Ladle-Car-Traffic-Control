@@ -38,14 +38,13 @@ This project implements an intelligent traffic management system for ladle cars 
 
 1.  Clone the repository:
     ```
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git clone (copy the url)
+    cd (inside the repo)
     ```
 2.  Install dependencies:
     ```
     pip install -r requirements.txt # If you have a requirements.txt file
-    # Or install dependencies individually
-    pip install tensorflow opencv-python ...
+
     ```
 3.  Download the pre-trained weights for the Ladle car detection model from [link to the model]
 
@@ -76,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-[Your Name] - [Your Email]
+Prashant Kumar - kumarprashant0797@gmail.com
 
-[Link to your website or other contact information]
+https://kumarprashant0797.github.io
